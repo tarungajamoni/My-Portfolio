@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.dab0dbf5.css",
-    "main.js": "/My-Portfolio/static/js/main.56bcd63f.js",
+    "main.js": "/My-Portfolio/static/js/main.872f4850.js",
     "static/media/malaria.jpg": "/My-Portfolio/static/media/malaria.bfcbed46ac147c7b21d8.jpg",
     "static/media/skillforge.webp": "/My-Portfolio/static/media/skillforge.0a9d09cd1bf55e2a82cf.webp",
     "static/media/transaction.jpg": "/My-Portfolio/static/media/transaction.8ee7763e48089d13e67d.jpg",
-    "static/media/SaiTarun.pdf": "/My-Portfolio/static/media/SaiTarun.95312a542700b4755994.pdf",
+    "static/media/SaiTarun.pdf": "/My-Portfolio/static/media/SaiTarun.fa3e5ab9d92d28a48cb8.pdf",
     "static/media/ecommerce.avif": "/My-Portfolio/static/media/ecommerce.456ba47ba60c27d4d135.avif",
     "static/media/book.jpg": "/My-Portfolio/static/media/book.54afc21d8d93705323ab.jpg",
     "static/media/customer.avif": "/My-Portfolio/static/media/customer.9a7a9f70cd91d2b01c4b.avif",
     "static/media/car.jpg": "/My-Portfolio/static/media/car.a1cd73df4035ae97939c.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.dab0dbf5.css.map": "/My-Portfolio/static/css/main.dab0dbf5.css.map",
-    "main.56bcd63f.js.map": "/My-Portfolio/static/js/main.56bcd63f.js.map"
+    "main.872f4850.js.map": "/My-Portfolio/static/js/main.872f4850.js.map"
   },
   "entrypoints": [
     "static/css/main.dab0dbf5.css",
-    "static/js/main.56bcd63f.js"
+    "static/js/main.872f4850.js"
   ]
 }
