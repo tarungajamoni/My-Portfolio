@@ -67,7 +67,7 @@ const About = () => {
           </p>
         </div>
 
-        <div className="mt-6 flex justify-center">
+        {/* <div className="mt-6 flex justify-center">
           <a
             href={resume}
             download
@@ -75,7 +75,7 @@ const About = () => {
             Download Resume
             <ArrowDownTrayIcon className="w-5 h-5" />
           </a>
-        </div>
+        </div> */}
       </div>
     </section>
   );

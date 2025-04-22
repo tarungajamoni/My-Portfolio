@@ -12,12 +12,12 @@ const Contact = () => {
           <span className="text-lg">tarungajamoni@gmail.com</span>
         </a>
 
-        <a
+        {/* <a
           href="tel:+918686505849"
           className="group flex items-center gap-4 p-4 bg-gray-800 hover:bg-gray-700 rounded-lg transition">
           <FaPhone className="text-green-400 text-2xl group-hover:scale-110 transition" />
           <span className="text-lg">+91 8686505849</span>
-        </a>
+        </a> */}
 
         <a
           href="https://www.linkedin.com/in/sai-tarun-gajamoni-34b222146/"
